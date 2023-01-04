@@ -24,7 +24,7 @@ def write_addrlist(addr_list, domains):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Parcer for har file. Get domains")
+    parser = argparse.ArgumentParser(description="Parser for har file. Get domains")
     parser.add_argument("harfile", type=argparse.FileType("r"), help="HAR file")
     parser.add_argument(
         "-a",
