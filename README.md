@@ -16,6 +16,6 @@ options:
 
 
 ➜ ./domains_from_har.py web.alfabank.ru.har -a
-['alfabank.ru', 'alfabank.servicecdn.ru', 'click.alfabank.ru', 'enricher.mfms.ru', 'github.com', 'metrics.alfabank.ru', 'online.alfabank.ru', 'private.auth.alfabank.ru', 'reactjs.org', 'web.alfabank.ru', 'www.w3.org', 'www.yandex.ru']
+['alfabank.ru', 'alfabank.servicecdn.ru', 'click.alfabank.ru', 'enricher.mfms.ru', 'metrics.alfabank.ru', 'online.alfabank.ru', 'private.auth.alfabank.ru', 'reactjs.org', 'web.alfabank.ru', 'www.w3.org', 'www.yandex.ru']
 File web.alfabank.ru.rsc was created successfully.
 ```
