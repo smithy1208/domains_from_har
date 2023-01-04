@@ -5,7 +5,7 @@ Parse har file and get domains from them
 ➜ ./domains_from_har.py -h
 usage: domains_from_har.py [-h] [-a] harfile
 
-Parcer for har file. Get domains
+Parser for har file. Get domains
 
 positional arguments:
   harfile     HAR file
